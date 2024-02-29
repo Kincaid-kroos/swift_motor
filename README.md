@@ -1,5 +1,5 @@
-# swift_motor
-An ecommerce web application for a client motor industry based in Nairobi, Kenya
+# swift_motors, Ke
+An ecommerce web application for a clients motor industries based in Nairobi, Kenya
 Tech Stack 
 Backend
 1. Laravel
